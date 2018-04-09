@@ -1,0 +1,36 @@
+﻿/* ============�����б�============== */
+
+ul.newslist_time{
+margin:9px 0px 1px 0px;
+padding:0px;
+}
+
+li.newslist_time {
+margin:0px;
+padding-left:20px;
+list-style-type: none;
+height:32px;
+background: transparent url(../images/li2.png) 0px 10px no-repeat;
+border-bottom: 1px dotted #BFBFBF;
+}
+
+li.newslist_time .time{
+float:right;
+font-size:14px;
+line-height:32px;
+color:#ddd;
+padding:0px;
+}
+
+a.newslist_time:link,a.newslist_time:visited,a.newslist_time:active{
+color:#ddd;
+text-decoration: none;
+font-size:14px;
+line-height:32px;
+}
+
+a.newslist_time:hover{
+color:#ddd;
+font-size:14px;
+line-height:32px;
+}
